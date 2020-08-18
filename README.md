@@ -15,24 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here are some of my UI projects I've had fun on (some recent, some older):
+Here are some of my full stack projects I've been having fun on (some recent, some older):
 
 ## Time Zones
 
 - https://allworldtime.com
 
-## Animated Ascii Videos
+## Animated ASCII Videos
 
 - https://landing-page-wcgvahcaev.now.sh/home-page (fake landing page)
 - https://demos-kwgsuvbigm.now.sh/  (more sample videos)
 
-## My NPM public packages
+## My NPM Public Packages
 
 - https://www.npmjs.com/package/lodash-getpath
 - https://www.npmjs.com/package/named-positional-args
 - https://www.npmjs.com/package/google-spreadsheet-promise
 - https://www.npmjs.com/package/ascii-img-canvas-nodejs
 - https://www.npmjs.com/package/svg-thumbnailer
+
+## Rematch - Pull Request for Loading Plugin
+
+- https://github.com/rematch/rematch/pull/245
 
 _If you like, reach out to me!_
 
