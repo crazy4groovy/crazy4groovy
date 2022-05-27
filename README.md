@@ -19,7 +19,7 @@ Here are some of my full stack projects I've been having fun on (some recent, so
 
 ## Time Zones
 
-- https://allworldtime.com
+- https://allworldtime.vercel.app
 
 ## Animated ASCII Videos
 
