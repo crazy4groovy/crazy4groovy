@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Here are some of my full stack projects I've been having fun on (some recent, some older):
 
-## Time Zones
+## Time Zones & Scheduling App (100% client side SPA)
 
 - https://allworldtime.vercel.app
 
@@ -37,6 +37,14 @@ Here are some of my full stack projects I've been having fun on (some recent, so
 ## Rematch - Pull Request for Loading Plugin
 
 - https://github.com/rematch/rematch/pull/245
+
+## Hobbies
+
+- 3D modeling & printing
+- music composition
+- husband & father
+- PC Gamer
+- Forever learner
 
 _If you like, reach out to me!_
 
