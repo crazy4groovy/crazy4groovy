@@ -40,9 +40,9 @@ Here are some of my full stack projects I've been having fun on (some recent, so
 
 ## Portfolio of Contracted Company Web Sites
 
-- https://whiterockmentalfitness.site/
-- https://betsyolsen.com/
-- https://gingerbreadhomes.biz/
+- https://whiterockmentalfitness.site/ ([Astro](https://astro.build/))
+- https://betsyolsen.com/ ([Astro](https://astro.build/))
+- https://gingerbreadhomes.biz/ ([vanillaJS](http://vanilla-js.com/))
 
 ## Hobbies
 
