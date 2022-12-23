@@ -38,6 +38,11 @@ Here are some of my full stack projects I've been having fun on (some recent, so
 
 - https://github.com/rematch/rematch/pull/245
 
+## Portfolio of Contracted Company Web Sites
+
+- https://whiterockmentalfitness.site/
+- https://betsyolsen.com/
+
 ## Hobbies
 
 - 3D modeling & printing
