@@ -41,7 +41,7 @@ Here are some of my full stack projects I've been having fun on (some recent, so
 ## Portfolio of Contracted Company Web Sites
 
 - https://betsyolsen.com/ ([Astro](https://astro.build/))
-- https://whiterockmentalfitness.site/ ([Astro](https://astro.build/))
+- https://whiterockmentalfitness.com/ ([Astro](https://astro.build/))
 - https://gingerbreadhomes.biz/ ([vanillaJS](http://vanilla-js.com/) --> [Astro](https://astro.build/))
 
 ## Hobbies
