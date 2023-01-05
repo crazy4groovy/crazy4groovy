@@ -15,16 +15,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here are some of my full stack projects I've been having fun on (some recent, some older):
+Here are some of my projects I've been having fun on (some recent, some older):
 
-## Time Zones & Scheduling App (100% client side SPA)
+## Online educator and mentor (__Sr. JS Dev__)
+
+> Goal: To fast-track Jr. developers into Sr. developers, by teaching (and practicing) advanced principles, tips, and techniques to code high-quality & _MAINTAINABLE_ software. Let's get more Sr. developers into the marketplace!
+
+- [YouTube Channel](https://www.youtube.com/@srjsdev6665)
+- [Blog](https://srjsdev.hashnode.dev/)
+
+## Project: Time Zones & Scheduling App (100% client-side SPA)
+
+> Goal: To provide a simple tool for every time-related task!
 
 - https://allworldtime.vercel.app
 
-## Animated ASCII Videos
+## Project: Animated ASCII Videos
+
+> Goal: To convert videos into pure ASCII art -- why not? Looks cool! 👍
 
 - https://landing-page-wcgvahcaev.now.sh/home-page (fake landing page)
 - https://demos-kwgsuvbigm.now.sh/  (more sample videos)
+
+## Public APIs
+
+> Goal: A simple service for scraping URLs into JSON or Markdown
+
+- https://rapidapi.com/bootz15/api/html-2-json/
 
 ## My NPM Public Packages
 
@@ -34,15 +51,22 @@ Here are some of my full stack projects I've been having fun on (some recent, so
 - https://www.npmjs.com/package/ascii-img-canvas-nodejs
 - https://www.npmjs.com/package/svg-thumbnailer
 
-## Rematch - Pull Request for Loading Plugin
+## Rematch (ala Redux) Pull Request
+
+> Goal: Contribute back to my JS dev community. A great OSS project needed help with their Loading plugin.
 
 - https://github.com/rematch/rematch/pull/245
 
-## Portfolio of Contracted Company Web Sites
+## My Portfolio of Contracted Company Web Sites
 
-- https://betsyolsen.com/ ([Astro](https://astro.build/))
+> Goal: To keep my front end skills fresh 
+
 - https://whiterockmentalfitness.com/ ([Astro](https://astro.build/))
+  - relates to a _super-secret_ native app I'm helping to build in 2023
+- https://betsyolsen.com/ ([Astro](https://astro.build/))
+  - includes Blog via Google SpreadSheets
 - https://gingerbreadhomes.biz/ ([vanillaJS](http://vanilla-js.com/) --> [Astro](https://astro.build/))
+  - includes Blog via Google SpreadSheets
 
 ## Hobbies
 
