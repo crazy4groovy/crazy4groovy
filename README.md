@@ -1,5 +1,3 @@
-# Hi there, and welcome 👋
-
 <!--
 **crazy4groovy/crazy4groovy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, and welcome 👋
+
+I'm a passionate JS developer (since 2005), compassionate team lead, organized project manager, and avid husband/father.
+
+---
+
+> STATUS: Open to part-time contract work
+
+---
 
 Here are some of my projects I've been having fun on (some recent, some older):
 
@@ -68,14 +76,16 @@ Here are some of my projects I've been having fun on (some recent, some older):
 - https://gingerbreadhomes.biz/ ([vanillaJS](http://vanilla-js.com/) --> [Astro](https://astro.build/))
   - includes Blog via Google SpreadSheets
 
-## Hobbies
+## My Hobbies
 
 - 3D modeling & printing
-- music composition
-- husband & father
+- music composition (piano and guitar)
+- Ukrainian speaker
 - PC Gamer
-- Forever learner
+- Forever Learner ™
 
-_If you like, reach out to me!_
+_If you'd like, reach out to me!_
+
+## Social Accounts
 
 🐦 Twitter: @crazy4groovy
