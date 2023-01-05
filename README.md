@@ -69,9 +69,9 @@ Here are some of my projects I've been having fun on (some recent, some older):
 
 > Goal: To keep my front end skills fresh 
 
-- https://whiterockmentalfitness.com/ ([Astro](https://astro.build/))
+- https://whiterockmentalfitness.com/ (HTML template --> [Astro](https://astro.build/))
   - relates to a _super-secret_ native app I'm helping to build in 2023
-- https://betsyolsen.com/ ([Astro](https://astro.build/))
+- https://betsyolsen.com/ (WordPress --> [Astro](https://astro.build/))
   - includes Blog via Google SpreadSheets
 - https://gingerbreadhomes.biz/ ([vanillaJS](http://vanilla-js.com/) --> [Astro](https://astro.build/))
   - includes Blog via Google SpreadSheets
