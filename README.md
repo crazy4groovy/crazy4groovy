@@ -27,7 +27,7 @@ Here are some of my projects I've been having fun on (some recent, some older):
 
 ## Online educator and mentor (__Sr. JS Dev__)
 
-> Goal: To fast-track Jr. developers into Sr. developers, by teaching (and practicing) advanced principles, tips, and techniques to code high-quality & _MAINTAINABLE_ software. Let's get more Sr. developers into the marketplace!
+> Goal: To fast-track Jr. developers into Sr. developers, by teaching (and practicing) advanced principles, tips, and techniques to code high-quality & _MAINTAINABLE_ software. Let's get _more_ __Sr.-leveled__ developers into the marketplace, because the industry needs it!
 
 - [YouTube Channel](https://www.youtube.com/@srjsdev6665)
 - [Blog](https://srjsdev.hashnode.dev/)
