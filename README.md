@@ -43,7 +43,13 @@ Here are some of my projects I've been having fun on (some recent, some older):
 > Goal: To convert videos into pure ASCII art -- why not? Looks cool! 👍
 
 - https://landing-page-wcgvahcaev.now.sh/home-page (fake landing page)
-- https://demos-kwgsuvbigm.now.sh/  (more sample videos)
+- https://demos-kwgsuvbigm.now.sh  (more sample videos)
+
+## Project: Ocarina Tab Maker
+
+> Goal: To provide a simple tool to input notes for playing ocarina music. CSS styles for printing supported, as well as some old school spriting techniques.
+
+- https://ocarina.vercel.app
 
 ## Public APIs
 
