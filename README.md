@@ -61,11 +61,11 @@ Here are some of my projects I've been having fun on (some recent, some older):
 
 - https://www.npmjs.com/package/lodash-getpath
 - https://www.npmjs.com/package/named-positional-args
-- https://www.npmjs.com/package/google-spreadsheet-promise
 - https://www.npmjs.com/package/ascii-img-canvas-nodejs
 - https://www.npmjs.com/package/svg-thumbnailer
+- https://www.npmjs.com/package/google-spreadsheet-promise (deprecated)
 
-## Rematch (ala Redux) Pull Request
+## Rematch (ala Redux state management) Pull Request
 
 > Goal: Contribute back to my JS dev community. A great OSS project needed help with their Loading plugin.
 
@@ -76,19 +76,20 @@ Here are some of my projects I've been having fun on (some recent, some older):
 > Goal: To keep my front end skills fresh 
 
 - https://whiterockmentalfitness.com/ (HTML template --> [Astro](https://astro.build/))
-  - relates to a _super-secret_ native app I'm helping to build in 2023
+  - relates to a _super-secret_ native app coming in 2023
 - https://betsyolsen.com/ (WordPress --> [Astro](https://astro.build/))
-  - includes Blog via Google SpreadSheets
+  - includes a markdown Blog via Google SpreadSheets/Form backend
 - https://gingerbreadhomes.biz/ ([vanillaJS](http://vanilla-js.com/) --> [Astro](https://astro.build/))
-  - includes Blog via Google SpreadSheets
+  - includes a markdown Blog via Google SpreadSheets/Form backend
 
 ## My Hobbies
 
 - 3D modeling & printing
 - music composition (piano and guitar)
-- Ukrainian speaker
-- PC Gamer
+- Ukrainian speaker (90% fluency)
+- Video Gamer
 - Forever Learner ™
+- https://github.com/srjsdev
 
 _If you'd like, reach out to me!_
 
