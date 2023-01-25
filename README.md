@@ -29,8 +29,9 @@ Here are some of my projects I've been having fun on (some recent, some older):
 
 > Goal: To fast-track Jr. developers into Sr. developers, by teaching (and practicing) advanced principles, tips, and techniques to code high-quality & _MAINTAINABLE_ software. Let's get _more_ __Sr.-leveled__ developers into the marketplace, because the industry needs it!
 
-- [YouTube Channel](https://www.youtube.com/@srjsdev6665)
-- [Blog](https://srjsdev.hashnode.dev/)
+- [YouTube Channel](https://www.youtube.com/@srjsdev)
+- [Blog](https://srjsdev.hashnode.dev)
+- [Twitter](https://twitter.com/srjsdev)
 
 ## Project: Time Zones & Scheduling App (100% client-side SPA)
 
@@ -75,12 +76,12 @@ Here are some of my projects I've been having fun on (some recent, some older):
 
 > Goal: To keep my front end skills fresh 
 
-- https://whiterockmentalfitness.com/ (HTML template --> [Astro](https://astro.build/))
+- https://whiterockmentalfitness.com (HTML template --> [Astro](https://astro.build))
   - relates to a _super-secret_ native app coming in 2023
-- https://betsyolsen.com/ (WordPress --> [Astro](https://astro.build/))
+- https://betsyolsen.com/ (WordPress --> [Astro](https://astro.build))
   - includes a markdown Blog via Google SpreadSheets/Form backend
   - [grade A](https://speedvitals.com/report/betsyolsen.com/92OoOs/) vitals
-- https://gingerbreadhomes.biz/ ([vanillaJS](http://vanilla-js.com/) --> [Astro](https://astro.build/))
+- https://gingerbreadhomes.biz/ ([vanillaJS](http://vanilla-js.com) --> [Astro](https://astro.build))
   - includes a markdown Blog via Google SpreadSheets/Form backend
   - [grade A](https://speedvitals.com/report/gingerbreadhomes.biz/UrAc7d/) vitals
 
@@ -91,9 +92,9 @@ Here are some of my projects I've been having fun on (some recent, some older):
 - Ukrainian speaker (90% fluency)
 - Video Gamer
 - Forever Learner ™
-- https://github.com/srjsdev
+- Project sandbox: https://github.com/srjsdev
 
-_If you'd like, reach out to me!_
+_If you'd like, please reach out to me!_
 
 ## Social Accounts
 
