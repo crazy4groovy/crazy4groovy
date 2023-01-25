@@ -79,8 +79,10 @@ Here are some of my projects I've been having fun on (some recent, some older):
   - relates to a _super-secret_ native app coming in 2023
 - https://betsyolsen.com/ (WordPress --> [Astro](https://astro.build/))
   - includes a markdown Blog via Google SpreadSheets/Form backend
+  - [grade A](https://speedvitals.com/report/betsyolsen.com/92OoOs/) vitals
 - https://gingerbreadhomes.biz/ ([vanillaJS](http://vanilla-js.com/) --> [Astro](https://astro.build/))
   - includes a markdown Blog via Google SpreadSheets/Form backend
+  - [grade A](https://speedvitals.com/report/gingerbreadhomes.biz/UrAc7d/) vitals
 
 ## My Hobbies
 
