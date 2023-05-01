@@ -31,7 +31,6 @@ Here are some of my projects I've been having fun on (some recent, some older):
 
 - [YouTube Channel](https://www.youtube.com/@srjsdev)
 - [Blog](https://srjsdev.hashnode.dev)
-- [Twitter](https://twitter.com/srjsdev)
 
 ## Project: Time Zones & Scheduling App (100% client-side SPA)
 
@@ -41,7 +40,7 @@ Here are some of my projects I've been having fun on (some recent, some older):
 
 ## Project: Animated ASCII Videos
 
-> Goal: To convert videos into pure ASCII art -- why not? Looks cool! 👍
+> Goal: To convert videos into pure ASCII art -- why not? Looks cool! 👍😎
 
 - https://landing-page-wcgvahcaev.now.sh/home-page (fake landing page)
 - https://demos-kwgsuvbigm.now.sh  (more sample videos)
@@ -52,9 +51,9 @@ Here are some of my projects I've been having fun on (some recent, some older):
 
 - https://ocarina.vercel.app
 
-## Public APIs
+## Public APIs (Paid Service)
 
-> Goal: A simple service for scraping URLs into JSON or Markdown
+> Goal: A simple service for scraping URLs, conveting content into a JSON tree or Markdown
 
 - https://rapidapi.com/bootz15/api/html-2-json/
 
@@ -66,15 +65,15 @@ Here are some of my projects I've been having fun on (some recent, some older):
 - https://www.npmjs.com/package/svg-thumbnailer
 - https://www.npmjs.com/package/google-spreadsheet-promise (deprecated)
 
-## Rematch (ala Redux state management) Pull Request
+### Rematch (ala Redux state management) Pull Request
 
 > Goal: Contribute back to my JS dev community. A great OSS project needed help with their Loading plugin.
 
 - https://github.com/rematch/rematch/pull/245
 
-## My Portfolio of Contracted Company Web Sites
+## My Portfolio of Custom Company Web Sites
 
-> Goal: To keep my front end skills fresh 
+> Goals: To keep my front end skills fresh; help businesses succeed online
 
 - https://whiterockmentalfitness.com (HTML template --> [Astro](https://astro.build))
   - relates to a _super-secret_ native app coming in 2023
@@ -84,10 +83,16 @@ Here are some of my projects I've been having fun on (some recent, some older):
 - https://gingerbreadhomes.biz/ ([vanillaJS](http://vanilla-js.com) --> [Astro](https://astro.build))
   - includes a markdown Blog via Google SpreadSheets/Form backend
   - [grade A](https://speedvitals.com/report/gingerbreadhomes.biz/UrAc7d/) vitals
+- https://mountainbrothers.ca/ ([vanillaJS](http://vanilla-js.com) --> [Astro](https://astro.build))
+  - includes a custom SMTP/email backend for Contact Form via GMAIL account
+  - [grade A](https://speedvitals.com/report/mountainbrothers.ca/tQ4byn/) vitals
+- https://windycitygym.ca/ ([vanillaJS](http://vanilla-js.com) --> [Astro](https://astro.build))
+  - includes a custom SMTP/email backend for Contact Form via GMAIL account
+  - [grade A](https://speedvitals.com/report/www.windycitygym.ca/UfPxy5/) vitals
 
 ## My Hobbies
 
-- 3D modeling & printing
+- 3D printing & modeling
 - music composition (piano and guitar)
 - Ukrainian speaker (90% fluency)
 - Video Gamer
@@ -99,3 +104,4 @@ _If you'd like, please reach out to me!_
 ## Social Accounts
 
 🐦 Twitter: @crazy4groovy
+🐦 Twitter: @srjsdev
