@@ -75,20 +75,26 @@ Here are some of my projects I've been having fun on (some recent, some older):
 
 > Goals: To keep my front end skills fresh; help businesses succeed online
 
-- https://whiterockmentalfitness.com (HTML template --> [Astro](https://astro.build))
-  - relates to a _super-secret_ native app coming in 2023
-- https://betsyolsen.com/ (WordPress --> [Astro](https://astro.build))
+- https://wheelymath.com (HTML template --> [Astro](https://astro.build) & [Svelte](https://svelte.dev/))
+  - A WHEELY fun math game for kids 8+ and adults too
+  - Original game creator and CXO
+  - Free online game version: https://wheely.today
+  - Buy 3D printed game card set, or 3D printer GCODE files
+  - Project consists of a monorepo for marketing & online game, shared code
+- https://betsyolsen.com/ (WordPress --> [Astro](https://astro.build) & [Svelte](https://svelte.dev/))
   - includes a markdown Blog via Google SpreadSheets/Form backend
   - [grade A](https://speedvitals.com/report/betsyolsen.com/92OoOs/) vitals
-- https://gingerbreadhomes.biz/ ([vanillaJS](http://vanilla-js.com) --> [Astro](https://astro.build))
+- https://gingerbreadhomes.biz/ (custom [vanillaJS](http://vanilla-js.com) --> [Astro](https://astro.build) & [Svelte](https://svelte.dev/))
   - includes a markdown Blog via Google SpreadSheets/Form backend
   - [grade A](https://speedvitals.com/report/gingerbreadhomes.biz/UrAc7d/) vitals
-- https://mountainbrothers.ca/ ([vanillaJS](http://vanilla-js.com) --> [Astro](https://astro.build))
+- https://mountainbrothers.ca/ (HTML template --> [Astro](https://astro.build) & [Svelte](https://svelte.dev/))
   - includes a custom SMTP/email backend for Contact Form via GMAIL account
   - [grade A](https://speedvitals.com/report/mountainbrothers.ca/tQ4byn/) vitals
-- https://windycitygym.ca/ ([vanillaJS](http://vanilla-js.com) --> [Astro](https://astro.build))
+- https://windycitygym.ca/ (HTML template --> [Astro](https://astro.build) & [Svelte](https://svelte.dev/))
   - includes a custom SMTP/email backend for Contact Form via GMAIL account
   - [grade A](https://speedvitals.com/report/www.windycitygym.ca/UfPxy5/) vitals
+- https://whiterockmentalfitness.com (HTML template --> [Astro](https://astro.build) & [Svelte](https://svelte.dev/))
+  - relates to a _super-secret_ native app planning for a 2023 release ... stay tuned
 
 ## My Hobbies
 
