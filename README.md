@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there, and welcome 👋
 
-I'm a passionate JS developer (since 2005), compassionate team lead, organized project manager, and avid husband/father.
+My name is Steve Olsen. I'm a passionate Sr. JS developer (since 2005), compassionate team leader, organized project manager, motivated entrepreneur, and avid husband/father.
 
 ---
 
