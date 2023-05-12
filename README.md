@@ -45,6 +45,12 @@ Here are some of my projects I've been having fun on (some recent, some older):
 - https://landing-page-wcgvahcaev.now.sh/home-page (fake landing page)
 - https://demos-kwgsuvbigm.now.sh  (more sample videos)
 
+## Project: AI SVG ART
+
+> Goal: To convert and display AI Midjourney art as SVGs, using [free bandwidth alliance](https://www.cloudflare.com/bandwidth-alliance/) for hosting
+
+- https://aisvg.art
+
 ## Project: Ocarina Tab Maker
 
 > Goal: To provide a simple tool to input notes for playing ocarina music. CSS styles for printing supported, as well as some old school spriting techniques.
