@@ -99,7 +99,7 @@ Here are some of my projects I've been having fun on (some recent, some older):
 - https://windycitygym.ca/ (HTML template --> [Astro](https://astro.build) & [Svelte](https://svelte.dev/))
   - includes a custom SMTP/email backend for Contact Form via GMAIL account
   - [grade A](https://speedvitals.com/report/www.windycitygym.ca/UfPxy5/) vitals
-- https://whiterockmentalfitness.com (HTML template --> [Astro](https://astro.build) & [Svelte](https://svelte.dev/))
+- https://whiterockmentalfitness.site (HTML template --> [Astro](https://astro.build) & [Svelte](https://svelte.dev/))
   - relates to a _super-secret_ native app planning for a 2023 release ... stay tuned
 
 ## My Hobbies
