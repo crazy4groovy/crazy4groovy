@@ -19,7 +19,7 @@ My name is Steve Olsen. I'm a passionate Sr. JS developer (since 2005), compassi
 
 ---
 
-> STATUS: Open to full-time work opporunities; team lead, architect
+> STATUS: Open to part-time contract work opporunities only
 
 ---
 
