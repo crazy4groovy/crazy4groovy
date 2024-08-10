@@ -51,6 +51,12 @@ Here are some of my projects I've been having fun on (some recent, some older):
 
 - https://aisvg.art
 
+## Project: Chemistry Speller
+
+> Goal: To find and display words that can only be spelled with periodic table elements' abbreviated names
+
+- https://chemistry-speller.vercel.app
+
 ## Project: Ocarina Tab Maker
 
 > Goal: To provide a simple tool to input notes for playing ocarina music. CSS styles for printing supported, as well as some old school spriting techniques.
