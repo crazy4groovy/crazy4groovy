@@ -29,7 +29,6 @@ Here are some of my projects I've been having fun on (some recent, some older):
 
 > Goal: To fast-track Jr. developers into Sr. developers, by teaching (and practicing) advanced principles, tips, and techniques to code high-quality & _MAINTAINABLE_ software. Let's get _more_ __Sr.-leveled__ developers into the marketplace, because the industry needs it!
 
-- [YouTube Channel](https://www.youtube.com/@srjsdev)
 - [Blog](https://srjsdev.hashnode.dev)
 
 ## Project: Time Zones & Scheduling App (100% client-side SPA)
