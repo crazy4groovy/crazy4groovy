@@ -19,7 +19,7 @@ My name is Steve Olsen. I'm a passionate Sr. JS developer (since 2005), compassi
 
 ---
 
-> STATUS: Open to part-time contract work opporunities only
+> STATUS: Open to all employment opporunities
 
 ---
 
@@ -30,6 +30,14 @@ Here are some of my projects I've been having fun on (some recent, some older):
 > Goal: To fast-track Jr. developers into Sr. developers, by teaching (and practicing) advanced principles, tips, and techniques to code high-quality & _MAINTAINABLE_ software. Let's get _more_ __Sr.-leveled__ developers into the marketplace, because the industry needs it!
 
 - [Blog](https://srjsdev.hashnode.dev)
+
+## Project: YouTube Quizr
+
+> Takes a YouTube URL and builds a multiple-choice quiz from the video's transcript, with timestamps on the cited lines so answers are checkable against the source, not only plausible. Agentic AI workflows with Vercel queues / KV jobs.
+
+> Implementation: a staged pipeline (transcript handling, optional cleanup that preserves line and timing alignment, text segmentation, per-segment question generation, consolidation and ranking, structured validation) rather than a single end-to-end prompt. Longer runs are background jobs (queue, status polling) so the client is not held open through multi-step LLM  and I/O work or serverless timeouts.
+
+- https://youtube-quizr.com
 
 ## Project: Time Zones & Scheduling App (100% client-side SPA)
 
